@@ -1,6 +1,7 @@
 # Esperanto
 
 #### Esperanto is a small programming language for handling text files (written in natural language) from the terminal/shell.
+#### The incontextual grammar was created in lark, which also helped us to generate the AST(Abstract Syntax Tree). Then, we used Python to perform the AST interpretation process.
 
 #### Features
 
